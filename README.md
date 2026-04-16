@@ -1,5 +1,5 @@
 # Lorebook Datapack v1.0
-Minecraft 1.21.4  |  pack_format: 48
+Minecraft 26.1  |  pack_format: 101
 
 ## QUICK REFERENCE
 
