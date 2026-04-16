@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Relic Token Balance\n","color":"gold","bold":true},{"text":"You have ","color":"#6B4226"},{"score":{"name":"@s","objective":"tokens"},"color":"gold","bold":true},{"text":" Relic Tokens.","color":"#6B4226"}]
